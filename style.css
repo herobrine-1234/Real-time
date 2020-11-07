@@ -1,0 +1,9 @@
+.footer{position:fixed;bottom:0;width:100%;text-align:center;color:wheat;background:darkgreen}
+.heading{width:100%;margin:0px;font-size:30px;box-shadow:15px 15px 30px darkorchid }
+.heading_div{float:none;padding:10px;border-radius:2px;background:orange;box-shadow:15px 15px 20px black}
+.heading_div2{font-size:20px;}
+.result_para_tag{font-size:20px}
+canvas{border:5px solid white;border-radius: 20px;box-shadow: 15px 15px 20px black;margin-top:80px}
+
+
+
